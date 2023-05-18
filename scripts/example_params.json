@@ -1,0 +1,17 @@
+{
+  "cityName": "Kraków",
+  "osmnxParams": {
+    "intersectionConsolidation": 5
+  },
+  "pathsToRemove": [
+    "Trasa Łagiewnicka"
+  ],
+  "pathsToAdd": [
+    {
+      "path": [
+        [, 1],
+
+      ]
+    }
+  ]
+}
